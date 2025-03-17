@@ -22,7 +22,7 @@ Esta aplicación web permite organizar un sorteo de Amigo Secreto de manera senc
 
 ##  Acceso y Uso
 
-* [📥 Clona este repositorio](https://github.com/Riq76/amigo-secreto.git)
+* [📥 Clona este repositorio](https://github.com/Riq76/Juego_Amigo-Secreto.git)
 
 * 🌐 Abre el archivo index.html en tu navegador.
 
