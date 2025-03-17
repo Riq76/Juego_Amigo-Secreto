@@ -16,32 +16,29 @@ Esta aplicación web permite organizar un sorteo de Amigo Secreto de manera senc
 
 * ⚠️ Se muestra una alerta si el campo de texto está vacío o contiene caracteres no permitidos.
 
-🚫 No se pueden agregar nombres repetidos.
+* 🚫 No se pueden agregar nombres repetidos.
 
-🔢 El sorteo solo se habilita cuando hay al menos dos nombres en la lista.
+* 🔢 El sorteo solo se habilita cuando hay al menos dos nombres en la lista.
 
 📂 Acceso y Uso
 
-📥 Clona este repositorio:
+* 📥 Clona este repositorio:
 
-git clone https://github.com/arruenicol/amigo-secreto.git
+```git clone https://github.com/Riq76/amigo-secreto.git```
 
-🌐 Abre el archivo index.html en tu navegador.
+* 🌐 Abre el archivo index.html en tu navegador.
 
-📝 Ingresa los nombres de los amigos en el campo de entrada.
+* 📝 Ingresa los nombres de los amigos en el campo de entrada.
 
-➕ Haz clic en "Añadir" para agregarlos a la lista.
+* ➕ Haz clic en "Añadir" para agregarlos a la lista.
 
-🎲 Haz clic en "Sortear amigo" para obtener un nombre aleatorio.
+* 🎲 Haz clic en "Sortear amigo" para obtener un nombre aleatorio.
 
 🛠️ Tecnologías Utilizadas
 
-🖥️ HTML → Estructura del sitio web.
+* 🖥️ HTML → Estructura del sitio web.
 
-🎨 CSS → Estilos y diseño responsivo.
+* 🎨 CSS → Estilos y diseño responsivo.
 
-📜 JavaScript → Lógica de interacción y sorteo.
+* 📜 JavaScript → Lógica de interacción y sorteo.
 
-👤 Autor
-
-Desarrollado por arruenicol 🚀
