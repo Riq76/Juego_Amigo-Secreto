@@ -6,15 +6,15 @@ Esta aplicación web permite organizar un sorteo de Amigo Secreto de manera senc
 
 ⚙️ Funcionalidades
 
-➕ Agregar nombres: Permite ingresar nombres en un campo de texto y agregarlos a una lista visible al hacer clic en "Añadir".
+* ➕ Agregar nombres: Permite ingresar nombres en un campo de texto y agregarlos a una lista visible al hacer clic en "Añadir".
 
-📜 Visualizar la lista: Los nombres ingresados aparecen en una lista debajo del campo de entrada.
+* 📜 Visualizar la lista: Los nombres ingresados aparecen en una lista debajo del campo de entrada.
 
-🎲 Sorteo aleatorio: Al hacer clic en "Sortear Amigo", se seleccionará un nombre al azar de la lista y se mostrará en pantalla.
+* 🎲 Sorteo aleatorio: Al hacer clic en "Sortear Amigo", se seleccionará un nombre al azar de la lista y se mostrará en pantalla.
 
 ✅ Validaciones
 
-⚠️ Se muestra una alerta si el campo de texto está vacío o contiene caracteres no permitidos.
+* ⚠️ Se muestra una alerta si el campo de texto está vacío o contiene caracteres no permitidos.
 
 🚫 No se pueden agregar nombres repetidos.
 
