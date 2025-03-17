@@ -1,10 +1,10 @@
 # Amigo Secreto
 
-## 📝 Descripción
+##  Descripción
 
 Esta aplicación web permite organizar un sorteo de Amigo Secreto de manera sencilla. Los usuarios pueden ingresar nombres, almacenarlos en una lista y seleccionar aleatoriamente a un participante.
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 
 * ➕ Agregar nombres: Permite ingresar nombres en un campo de texto y agregarlos a una lista visible al hacer clic en "Añadir".
 
@@ -12,7 +12,7 @@ Esta aplicación web permite organizar un sorteo de Amigo Secreto de manera senc
 
 * 🎲 Sorteo aleatorio: Al hacer clic en "Sortear Amigo", se seleccionará un nombre al azar de la lista y se mostrará en pantalla.
 
-## ✅ Validaciones
+##  Validaciones
 
 * ⚠️ Se muestra una alerta si el campo de texto está vacío o contiene caracteres no permitidos.
 
@@ -20,7 +20,7 @@ Esta aplicación web permite organizar un sorteo de Amigo Secreto de manera senc
 
 * 🔢 El sorteo solo se habilita cuando hay al menos dos nombres en la lista.
 
-## 📂 Acceso y Uso
+##  Acceso y Uso
 
 * [📥 Clona este repositorio](https://github.com/Riq76/amigo-secreto.git)
 
@@ -32,7 +32,7 @@ Esta aplicación web permite organizar un sorteo de Amigo Secreto de manera senc
 
 * 🎲 Haz clic en "Sortear amigo" para obtener un nombre aleatorio.
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 * 🖥️ HTML → Estructura del sitio web.
 
